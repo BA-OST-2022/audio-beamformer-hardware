@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Audio-Beamformer.PrjPcb]
+   Generated File[Audio-Beamformer_V1.0-RoundHoles.TXT]
+   Generated File[Audio-Beamformer_V1.0-SlotHoles.TXT]
+   Generated File[Audio-Beamformer_V1.0-RectHoles.TXT]
+   Generated File[Audio-Beamformer_V1.0.LDP]
+   Generated File[Audio-Beamformer_V1.0.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 14:41:48 On 26.04.2022

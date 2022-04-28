@@ -1,0 +1,34 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Audio-Beamformer_V1.0.PcbDoc   26.04.2022  14:41:47
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Audio-Beamformer_V1.0-RoundHoles.TXT
+ASCII SlotHoles File : Audio-Beamformer_V1.0-SlotHoles.TXT
+ASCII RectHoles File : Audio-Beamformer_V1.0-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             2808      PTH        16519.02mm (650.36inch)
+T2      0.4mm (16mil)                                             Round             25        PTH        592.48mm (23.33inch)
+T3      0.55mm (22mil)                                            Round             16        PTH        277.64mm (10.93inch)
+T4      0.6mm (24mil)                                             Slot              4         PTH        38.17mm (1.50inch)
+T5      0.85mm (33mil)                                            Round             4         PTH        6.00mm (0.24inch)
+T6      0.9mm (35mil)                                             Slot              8         PTH        411.49mm (16.20inch)
+T7      1mm (39mil)                                               Round             53        PTH        1109.14mm (43.67inch)
+T8      1.1mm (43mil)                                             Round             10        PTH        339.55mm (13.37inch)
+T9      1.3mm (51mil)                                             Round             304       PTH        4004.38mm (157.65inch)
+T10     1.4mm (55mil)                                             Round             2         PTH        5.08mm (0.20inch)
+T11     1.8mm (71mil)                                             Rectangle         2         PTH        23.63mm (0.93inch)
+T12     2.2mm (87mil)                                             Round             4         PTH        84.00mm (3.31inch)
+T13     2.3mm (91mil)                                             Round             6         PTH        329.20mm (12.96inch)
+T14     2.7mm (106mil)                                            Round             12        PTH        407.88mm (16.06inch)
+T15     3.2mm (126mil)                                            Round             15        PTH        1446.03mm (56.93inch)
+T16     0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+T17     0.9mm (35mil)                                             Round             2         NPTH       3.00mm (0.12inch)
+T18     1.152mm (45mil)                                           Round             4         NPTH       881.35mm (34.70inch)
+T19     2.5mm (98mil)                                             Round             19        NPTH       669.29mm (26.35inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              3300
+
+Total Processing Time (hh:mm:ss) : 00:00:01

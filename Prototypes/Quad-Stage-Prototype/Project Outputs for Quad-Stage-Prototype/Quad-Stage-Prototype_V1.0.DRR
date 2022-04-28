@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Quad-Stage-Prototype_V1.0.PcbDoc   28.03.2022  14:20:00
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Quad-Stage-Prototype_V1.0.TXT
+ASCII RectHoles File : Quad-Stage-Prototype_V1.0-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             903       PTH        4507.72mm (177.47inch)
+T2      0.4mm (16mil)                                             Round             3         PTH        75.14mm (2.96inch)
+T3      0.55mm (22mil)                                            Round             8         PTH        110.80mm (4.36inch)
+T4      0.9mm (35mil)                                             Round             20        PTH        68.58mm (2.70inch)
+T5      1mm (39mil)                                               Round             3         PTH        5.00mm (0.20inch)
+T6      1.2mm (47mil)                                             Round             98        PTH        1373.33mm (54.07inch)
+T7      1.8mm (71mil)                                             Rectangle         2         PTH        18.21mm (0.72inch)
+T8      3.2mm (126mil)                                            Round             4         PTH        790.26mm (31.11inch)
+T9      0.9mm (35mil)                                             Round             2         NPTH       3.00mm (0.12inch)
+T10     1.152mm (45mil)                                           Round             4         NPTH       764.38mm (30.09inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1047
+
+Total Processing Time (hh:mm:ss) : 00:00:01

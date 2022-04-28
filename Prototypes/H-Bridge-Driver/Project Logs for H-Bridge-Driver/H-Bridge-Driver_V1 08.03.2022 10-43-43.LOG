@@ -1,0 +1,338 @@
+Added Component: Designator=C1(SMD Keramikkondensator 0603)
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "1µF 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Keramikvielschichtkondensator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "1276-1860-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "3013383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC-Parts"; Value = "C15849"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "187-CL10A105KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.01"; VariantName = "[No Variations]"
+Added Component: Designator=C2(SMD Keramikkondensator 0603)
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "100nF 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Keramikvielschichtkondensator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "445-5666-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "2522432"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC-Parts"; Value = "C14663"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "77-VJ0603V104ZXAPBC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.01"; VariantName = "[No Variations]"
+Added Component: Designator=C3(SMD Keramikkondensator 0603)
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "1µF 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Keramikvielschichtkondensator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "1276-1860-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "3013383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC-Parts"; Value = "C15849"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "187-CL10A105KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.01"; VariantName = "[No Variations]"
+Added Component: Designator=C4(SMD Keramikkondensator 0603)
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "100nF 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Keramikvielschichtkondensator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "445-5666-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "2522432"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC-Parts"; Value = "C14663"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "77-VJ0603V104ZXAPBC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.01"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SMD Diode DO-214-AC (SMA))
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "GF1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "General Purpose Rectifier Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "GF1GFSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "1467478"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "512-GF1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.43"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SMD Diode DO-214-AC (SMA))
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "1N4148WS-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Kleinsignal-Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "1N4148WSFSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "2453269"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "621-1N4148WSF-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.14"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SMD Diode DO-214-AC (SMA))
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "1N4148WS-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Kleinsignal-Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "1N4148WSFSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "2453269"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "621-1N4148WSF-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.14"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SMD Diode DO-214-AC (SMA))
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "GF1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "General Purpose Rectifier Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "GF1GFSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "1467478"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "512-GF1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.43"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SMD Diode DO-214-AC (SMA))
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "1N4148WS-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Kleinsignal-Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "1N4148WSFSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "2453269"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "621-1N4148WSF-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.14"; VariantName = "[No Variations]"
+Added Component: Designator=D6(SMD Diode DO-214-AC (SMA))
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "1N4148WS-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Kleinsignal-Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "1N4148WSFSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "2453269"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "621-1N4148WSF-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.14"; VariantName = "[No Variations]"
+Added Component: Designator=K1(SMD IC SOIC-8)
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "FDS89141"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Dual N-Channel MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/szlcsc/1810201610_Sinopower-Semicon-APM4953KC-TRG_C20897.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "FDS89141CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "2083349"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC-Parts"; Value = "C606116"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "512-FDS89141"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "1.90"; VariantName = "[No Variations]"
+Added Component: Designator=K2(SMD IC SOIC-8)
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "FDS89141"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Dual N-Channel MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/szlcsc/1810201610_Sinopower-Semicon-APM4953KC-TRG_C20897.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "FDS89141CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "2083349"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC-Parts"; Value = "C606116"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "512-FDS89141"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "1.90"; VariantName = "[No Variations]"
+Added Component: Designator=R1(SMD Widerstand 0603)
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "10 (75V, 100mW, 1%)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Dickschicht Chipwiderstand"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "P10.0HCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "2302958"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC-Parts"; Value = "C22859"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "667-ERJ-3EKF10R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.01"; VariantName = "[No Variations]"
+Added Component: Designator=R2(SMD Widerstand 0603)
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "47 (75V, 100mW, 1%)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Dickschicht Chipwiderstand"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "P47.0HCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "2303030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC-Parts"; Value = "C23182"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "667-ERJ-3EKF47R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.01"; VariantName = "[No Variations]"
+Added Component: Designator=R3(SMD Widerstand 0603)
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "47 (75V, 100mW, 1%)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Dickschicht Chipwiderstand"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "P47.0HCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "2303030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC-Parts"; Value = "C23182"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "667-ERJ-3EKF47R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.01"; VariantName = "[No Variations]"
+Added Component: Designator=R4(SMD Widerstand 0603)
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "10 (75V, 100mW, 1%)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Dickschicht Chipwiderstand"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "P10.0HCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "2302958"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC-Parts"; Value = "C22859"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "667-ERJ-3EKF10R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.01"; VariantName = "[No Variations]"
+Added Component: Designator=R5(SMD Widerstand 0603)
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "47 (75V, 100mW, 1%)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Dickschicht Chipwiderstand"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "P47.0HCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "2303030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC-Parts"; Value = "C23182"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "667-ERJ-3EKF47R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.01"; VariantName = "[No Variations]"
+Added Component: Designator=R6(SMD Widerstand 0603)
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "1k (75V, 100mW, 1%)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Dickschicht Chipwiderstand"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "P1.00KHCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "2303145"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC-Parts"; Value = "C21190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "667-ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.01"; VariantName = "[No Variations]"
+Added Component: Designator=R7(SMD Widerstand 0603)
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "1k (75V, 100mW, 1%)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Dickschicht Chipwiderstand"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "P1.00KHCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "2303145"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC-Parts"; Value = "C21190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "667-ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.01"; VariantName = "[No Variations]"
+Added Component: Designator=R8(SMD Widerstand 0603)
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "47 (75V, 100mW, 1%)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Dickschicht Chipwiderstand"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "P47.0HCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "2303030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC-Parts"; Value = "C23182"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "667-ERJ-3EKF47R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.01"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SMD IC SOIC-8)
+Add component (AddParameter): Name = "Component Description"; Value = "High Voltage Gate Driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Value"; Value = "LM5109A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/lit/ds/symlink/lm5109a.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1646723200072&ref_url=https%253A%252F%252Fwww.mouser.ch%252F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "LM5109AMA/NOPB-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "3005775"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC-Parts"; Value = "C129332"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "926-LM5109AMA/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(SMD IC SOIC-8)
+Add component (AddParameter): Name = "Component Description"; Value = "High Voltage Gate Driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Value"; Value = "LM5109A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/lit/ds/symlink/lm5109a.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1646723200072&ref_url=https%253A%252F%252Fwww.mouser.ch%252F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "LM5109AMA/NOPB-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "3005775"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC-Parts"; Value = "C129332"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "926-LM5109AMA/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X1(THT Stiftleiste 1x4)
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "4-Pol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Stiftleiste"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC-Parts"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.10"; VariantName = "[No Variations]"
+Added Component: Designator=X2(THT Stiftleiste 1x4)
+Add component (AddParameter): Name = "aliExpress"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bauteilwert"; Value = "4-Pol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Beschreibung"; Value = "Stiftleiste"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC-Parts"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stückpreis"; Value = "0.10"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC2_2 Pin=D1-K
+Added Pin To Net: NetName=GND Pin=K1-3
+Added Pin To Net: NetName=NetC4_1 Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K2-3
+Added Pin To Net: NetName=NetC4_1 Pin=K2-5
+Added Pin To Net: NetName=NetC4_1 Pin=K2-6
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=NetC2_2 Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=NetC4_1 Pin=U2-6
+Added Pin To Net: NetName=GND Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X2-1
+Added Pin To Net: NetName=NetC4_1 Pin=X2-2
+Added Pin To Net: NetName=12V Pin=C1-2
+Added Pin To Net: NetName=12V Pin=C3-2
+Added Pin To Net: NetName=12V Pin=R1-2
+Added Pin To Net: NetName=12V Pin=R4-2
+Added Pin To Net: NetName=12V Pin=U1-1
+Added Pin To Net: NetName=12V Pin=U2-1
+Added Pin To Net: NetName=12V Pin=X1-4
+Added Net: Name=12V
+Added Pin To Net: NetName=HV Pin=K1-7
+Added Pin To Net: NetName=HV Pin=K1-8
+Added Pin To Net: NetName=HV Pin=K2-7
+Added Pin To Net: NetName=HV Pin=K2-8
+Added Pin To Net: NetName=HV Pin=X2-4
+Added Net: Name=HV
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=K1-1
+Added Pin To Net: NetName=NetC2_1 Pin=K1-5
+Added Pin To Net: NetName=NetC2_1 Pin=K1-6
+Added Pin To Net: NetName=NetC2_1 Pin=U1-6
+Added Pin To Net: NetName=NetC2_1 Pin=X2-3
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=D4-K
+Added Pin To Net: NetName=NetC4_2 Pin=U2-8
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R1-1
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=K1-2
+Added Pin To Net: NetName=NetD2_A Pin=R2-1
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD2_K Pin=D2-K
+Added Pin To Net: NetName=NetD2_K Pin=R2-2
+Added Pin To Net: NetName=NetD2_K Pin=U1-7
+Added Net: Name=NetD2_K
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=K1-4
+Added Pin To Net: NetName=NetD3_A Pin=R3-1
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetD3_K Pin=D3-K
+Added Pin To Net: NetName=NetD3_K Pin=R3-2
+Added Pin To Net: NetName=NetD3_K Pin=U1-5
+Added Net: Name=NetD3_K
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=NetD4_A Pin=R4-1
+Added Net: Name=NetD4_A
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=NetD5_A Pin=K2-2
+Added Pin To Net: NetName=NetD5_A Pin=R5-1
+Added Net: Name=NetD5_A
+Added Pin To Net: NetName=NetD5_K Pin=D5-K
+Added Pin To Net: NetName=NetD5_K Pin=R5-2
+Added Pin To Net: NetName=NetD5_K Pin=U2-7
+Added Net: Name=NetD5_K
+Added Pin To Net: NetName=NetD6_A Pin=D6-A
+Added Pin To Net: NetName=NetD6_A Pin=K2-4
+Added Pin To Net: NetName=NetD6_A Pin=R8-1
+Added Net: Name=NetD6_A
+Added Pin To Net: NetName=NetD6_K Pin=D6-K
+Added Pin To Net: NetName=NetD6_K Pin=R8-2
+Added Pin To Net: NetName=NetD6_K Pin=U2-5
+Added Net: Name=NetD6_K
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U1-3
+Added Pin To Net: NetName=NetR6_2 Pin=U2-2
+Added Pin To Net: NetName=NetR6_2 Pin=X1-2
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U1-2
+Added Pin To Net: NetName=NetR7_2 Pin=U2-3
+Added Pin To Net: NetName=NetR7_2 Pin=X1-3
+Added Net: Name=NetR7_2
+Added Class: Name=H-Bridge-Driver_V1.0
+Added Room: Name=H-Bridge-Driver_V1.0

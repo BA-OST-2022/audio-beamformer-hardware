@@ -1,0 +1,48 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\flori\GoogleDrive\HSR\BA-OST-2022\audio-beamformer-hardware\Prototypes\Quad-Stage-Prototype\Quad-Stage-Prototype_V1.0.PcbDoc
+Date     : 28.03.2022
+Time     : 14:16:52
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (InPoly),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=500mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=25.4mm) (All)
+Rule Violations :0
+
+Processing Rule : Room Row-Driver5 (Bounding Region = (100.576mm, 84.45mm, 273.83mm, 101.45mm) (InComponentClass('Row-Driver5'))
+Rule Violations :0
+
+Processing Rule : Room Row-Driver6 (Bounding Region = (100.58mm, 69.705mm, 273.83mm, 86.705mm) (InComponentClass('Row-Driver6'))
+Rule Violations :0
+
+Processing Rule : Room Row-Driver3 (Bounding Region = (100.576mm, 113.975mm, 273.83mm, 130.975mm) (InComponentClass('Row-Driver3'))
+Rule Violations :0
+
+Processing Rule : Room Row-Driver1 (Bounding Region = (100.583mm, 143.45mm, 273.83mm, 160.45mm) (InComponentClass('Row-Driver1'))
+Rule Violations :0
+
+Processing Rule : Room Row-Driver4 (Bounding Region = (100.58mm, 99.205mm, 273.83mm, 116.205mm) (InComponentClass('Row-Driver4'))
+Rule Violations :0
+
+Processing Rule : Room Row-Driver2 (Bounding Region = (100.58mm, 128.705mm, 273.83mm, 145.705mm) (InComponentClass('Row-Driver2'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01
